@@ -131,6 +131,7 @@ This project is based on sales data from Costa Coffee and demonstrates how data 
 ## 🔗 Dashboard Preview  
 
 > Add a screenshot or GIF of your dashboard here to give readers a glimpse of the visualizations.
+![image](https://github.com/user-attachments/assets/5d40d10e-ddb2-416d-91bf-1005775e3385)
 
 ---
 
